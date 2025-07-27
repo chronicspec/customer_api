@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "name": "Alice"
+  },
+  {
+    "id": 2,
+    "name": "Bob"
+  },
+  {
+    "id": 3,
+    "name": "Charlie"
+  },
+  {
+    "id": 4,
+    "name": "Charlie Updated"
+  },
+  {
+    "id": 5,
+    "name": "Charlie Create",
+    "email": "abc@gmail.com",
+    "create_at": "2025-07-24T17:31:16.787Z"
+  }
+]
